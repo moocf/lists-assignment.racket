@@ -1,2 +1,3 @@
-# popl_lists
 Functional Programming on Lists.
+
+DO NOT COPY!
